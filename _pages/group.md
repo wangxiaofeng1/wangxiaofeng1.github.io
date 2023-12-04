@@ -8,7 +8,7 @@ author_profile: true
 
 Samuel Dauchert
 
-## Current Undergradyuate Students
+## Current Undergraduate Students
 
 Connor Chonko
 
