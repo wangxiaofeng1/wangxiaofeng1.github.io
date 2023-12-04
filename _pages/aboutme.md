@@ -10,6 +10,5 @@ robotics and control, cyber-physical systems, autonomous systems, and machine le
 
 
 ### More
-Soccer is my favorate sport.  Besides that, I also enjoy music.
-   
+Soccer is my favorite sport; additionally, I have a great passion for music.   
 
