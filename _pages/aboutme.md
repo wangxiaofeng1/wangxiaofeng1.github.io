@@ -9,6 +9,7 @@ Xiaofeng Wang is an associate professor in the Department of Electrical Engineer
 robotics and control, cyber-physical systems, autonomous systems, and machine learning.  He is an associate editor of IEEE Transactions on Aerospace and Electronic Systems, Journal of The Franklin Institute, and IEEE Control Systems Society Conference Board.  He was the recipient of the best paper award in the Annual Conference of the Prognostics and Health Management Society in 2014 and the finalist of the best paper award in International Conference on Cyber-Physical Systems in 2013.
 
 
-### small title
+### More
+Soccer is my favorate sports.  Besides that, I also enjoy music.
    
 
