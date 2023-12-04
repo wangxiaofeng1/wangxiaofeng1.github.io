@@ -14,10 +14,10 @@ Connor Chonko
 
 ## Graduated PhD Students
 
-Xin Zhang
+Xin Zhang (Currently, assistant professor in the University of Southern Maine)
 
-Rabab Abdelfattah
+Rabab Abdelfattah (Currently, assistant professor at the University of Southern Mississippi)
 
-Lixing Yang
+Lixing Yang (Currently, researcher at Huzhou Institution of Zhejiang University)
 
-Zheqing Zhou
+Zheqing Zhou (Currenlly, founder and CEO of a startup company)
