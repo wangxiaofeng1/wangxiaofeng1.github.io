@@ -8,11 +8,11 @@ redirect_from:
 ---
 Welcome to my website!
 
-Education
+News
 ======
-- Ph.D., Electrical Engineering, University of Notre Dame, 2009
-- M.S., Operation Research and Control Theory, East China Normal University, 2003
-- B.S., Applied Mathematics, East China Normal University, 2000
+- Sebtember 2023: Our paper has been accepted by
+-       
+- July 2023: Rabab Abdelfattah successfully defends her Ph.D. dissertation "Robust Deep Learning Models for Multi-Label Image Classification in Limited and Free Annotation Scenarios"
 
 Research Interests
 ======
