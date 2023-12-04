@@ -11,7 +11,7 @@ Welcome to my website!
 News
 ======
 - November 2023: Xin Zhang successfully defends her Ph.D. dissertation "Robustness of Convolutional Neural Networks: Analysis and Applications".
-- Sebtember 2023: Our project "Collaborative Research: SLES: Guaranteed Tubes for Safe Learning across Autonomy Architectures", collaborated with the UIUC team, is funded by National Science Foundation (NSF).
+- Sebtember 2023: Our project "Collaborative Research: SLES: Guaranteed Tubes for Safe Learning across Autonomy Architectures", collaborated with the UIUC team, is funded by the National Science Foundation (NSF).
 - Sebtember 2023: Our paper "PLGAN: Generative Adversarial Networks for Power-Line Segmentation in Aerial Images" has been accepted as a REGULAR paper in IEEE Transactions on Image Processing (TIP).
 - July 2023: Rabab Abdelfattah successfully defends her Ph.D. dissertation "Robust Deep Learning Models for Multi-Label Image Classification in Limited and Free Annotation Scenarios".
 - July 2023: Our paper "CDUL: Clip-Driven Unsupervised Learning for Multi-Label Image Classification" has been accepted by International Conference on Computer Vision (ICCV) 2023.
