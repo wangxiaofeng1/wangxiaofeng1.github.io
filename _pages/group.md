@@ -6,18 +6,18 @@ author_profile: true
 
 ## Current PhD Students
 
-### Samuel Dauchert
+Samuel Dauchert
 
 ## Current Undergradyuate Students
 
-### Connor Chonko
+Connor Chonko
 
 ## Graduated PhD Students
 
-### Xin Zhang
+Xin Zhang
 
-### Rabab
+Rabab
 
-### Lixing Yang
+Lixing Yang
 
-### Zheqing Zhou
+Zheqing Zhou
