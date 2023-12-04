@@ -20,4 +20,4 @@ Rabab Abdelfattah (Currently, assistant professor at the University of Southern 
 
 Lixing Yang (Currently, researcher at Huzhou Institution of Zhejiang University)
 
-Zheqing Zhou (Currenlly, founder and CEO of a startup company)
+Zheqing Zhou (Currently, founder and CEO of a startup company)
