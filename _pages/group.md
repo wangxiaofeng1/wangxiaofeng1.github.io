@@ -4,21 +4,20 @@ permalink: /group/
 author_profile: true
 ---
 
-## Current
+## Current PhD Students
 
-### student 1
-He is xxxxx
+### Samuel Dauchert
 
-### student 2
-She is xxxxx
+## Current Undergradyuate Students
 
+### Connor Chonko
 
+## Graduated PhD Students
 
-## Graduated
+### Xin Zhang
 
-### student 1
-He is xxx
+### Rabab
 
-### student 2
-She is xxx
+### Lixing Yang
 
+### Zheqing Zhou
