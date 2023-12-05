@@ -4,7 +4,7 @@ permalink: /group/
 author_profile: true
 ---
 
-## Current
+## Current Members
 ### PhD Students
 - Samuel Dauchert
 
