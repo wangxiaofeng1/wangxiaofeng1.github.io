@@ -13,6 +13,7 @@ Connor Chonko
 
 ## Alumni
 ### PhD Students
+
 Xin Zhang (now assistant professor in the University of Southern Maine)
 
 Rabab Abdelfattah (now assistant professor at the University of Southern Mississippi)
@@ -22,6 +23,7 @@ Lixing Yang (now researcher at Huzhou Institution of Zhejiang University)
 Zheqing Zhou (now running a startup company)
 
 ### MS Students
+
 Courage Agho (now Sr. Engineer at Tesla)
 
 Hang Xu (Co-advised with Prof. Roger Dougal)
