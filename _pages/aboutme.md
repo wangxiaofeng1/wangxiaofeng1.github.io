@@ -9,5 +9,5 @@ Xiaofeng Wang is an associate professor in the Department of Electrical Engineer
 
 
 ### More
-Soccer is my favorite sport; additionally, I have a great passion for music.   
+Soccer is absolutely my favorite sport; additionally, I have a great passion for music.   
 
