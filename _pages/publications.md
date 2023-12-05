@@ -18,7 +18,7 @@ author_profile: true
 * P. Zhao, Y. Mao, C. Tao, N. Hovakimyan, and X. Wang, adaptive robust quadratic programs using control Lyapunov and barrier functions.  IEEE Conference on Decision and Control (CDC), 3353-3358, 2020.
 * X. Wang, N. Hovakimyan, and L. Sha, RSimplex: A robust control architecture against cyber and physical failures.  ACM Transactions on Cyber-Physical Systems, vol. 2, no. 4, A27, 2018.
 * X. Wang, E. Kharisov, and N. Hovakimyan, Real-time L1 adaptive control for uncertain networked control systems.  IEEE Transactions on Automatic Control, vol. 60, no. 9, 2500-2505, 2015.
-* X. Wang, N. Hovakimyan, and L. Sha, L1Simplex: Fault-tolerant control of cyber-physical systems.  International Conference on Cyber-Physical Systems (ICCPS13), Cyber-Physical Systems Week (CPS Week), 2013.
+* X. Wang, N. Hovakimyan, and L. Sha, L1Simplex: Fault-tolerant control of cyber-physical systems.  International Conference on Cyber-Physical Systems (ICCPS13), 2013.
 * X. Wang and N. Hovakimyan, L1 adaptive controller for nonlinear time-varying reference systems.  System & Control Letters, vol. 61, 455-463, 2012.
 
 ## Model Predictive Control
