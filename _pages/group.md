@@ -11,7 +11,6 @@ author_profile: true
 ### Undergraduate Students
 - Connor Chonko
 
-
 ## Alumni
 ### PhD Students
 - Xin Zhang (now assistant professor in the University of Southern Maine)
