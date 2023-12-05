@@ -27,7 +27,7 @@ Zheqing Zhou (now running a startup company)
 
 Courage Agho (now Sr. Engineer at Tesla)
 
-Hang Xu (Co-advised with Prof. Roger Dougal)
+Hang Xu (co-advised with Prof. Roger Dougal)
 
 ### Visiting Scholars
 Jie Luo (from Wuhan University of Technology)
