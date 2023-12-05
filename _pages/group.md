@@ -4,7 +4,7 @@ permalink: /group/
 author_profile: true
 ---
 
-## Current PhD Students
+## Current Members
 ### PhD Students
 Samuel Dauchert
 
@@ -13,19 +13,27 @@ Connor Chonko
 
 ## Alumni
 ### PhD Students
-Xin Zhang (Now assistant professor in the University of Southern Maine)
+Xin Zhang (now assistant professor in the University of Southern Maine)
 
-Rabab Abdelfattah (Now assistant professor at the University of Southern Mississippi)
+Rabab Abdelfattah (now assistant professor at the University of Southern Mississippi)
 
-Lixing Yang (Now researcher at Huzhou Institution of Zhejiang University)
+Lixing Yang (now researcher at Huzhou Institution of Zhejiang University)
 
-Zheqing Zhou (Now founder of a startup company)
+Zheqing Zhou (now running a startup company)
 
 ### MS Students
-Courage Agho (Now Sr. Engineer at Tesla)
+Courage Agho (now Sr. Engineer at Tesla)
 
 Hang Xu (Co-advised with Prof. Roger Dougal)
 
 ### Visiting Scholars
+Jie Luo (from Wuhan University of Technology)
+
+Chunling Xie (from the University of Yantai)
 
 ### Visiting Students
+Ying Shen (visiting PhD student from Zhejiang University)
+
+Rui Yu (visiting MS student from China Jiliang University)
+
+
