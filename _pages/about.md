@@ -18,11 +18,6 @@ News
 - June 2023: Our paper "D-Score: A White-Box Diagnosis Score for CNNs Based on Mutation Operators" has been accepted by International Conference Advanced Data Mining and Applications (ADMA) 2023.
 - March 2023: Our paper "Distributed Lebesgue Approximation Model for Distributed Continuous-Time Nonlinear Systems" has been accepted by IEEE Transactions on Cybernetics.
 
-Research Interests
+Positions for PhD Students
 ======
-- Networked Real-Time Control Systems
-- Fault-Tolerant Control
-- Cooperative Control
-- Optimization
-- System Verification
-- Nonlinear System Design  
+Positions for PhD students are available in my group in the Department of Electrical Engineering at the University of South Carolina, Columbia. Students with solid background in control theory, robotics, machine learning, or applied mathematics are encouraged to apply. For more information, please contact me by email.
