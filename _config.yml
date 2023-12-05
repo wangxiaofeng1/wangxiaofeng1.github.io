@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Associate Professor <br> Department of Electrical Engineering <br> University of South Carolina"
   employer         :
-  location         : "301 Main Street, 3A20 <br> &nbsp; &nbsp; Columbia, SC"
+  location         : "301 Main Street, 3A20 <br> &nbsp; &nbsp; &nbsp; Columbia, SC"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZN73_1AAAAAJ&hl=en"
   email            : wangxi at cec.sc.edu
