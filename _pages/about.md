@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-_Welcome to my website!_
+Welcome to my website!
 
 News
 ======
