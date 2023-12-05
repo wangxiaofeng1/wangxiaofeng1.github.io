@@ -1,10 +1,10 @@
 ---
-title: "Group Members"
+title: ""
 permalink: /group/
 author_profile: true
 ---
 
-## Current Members
+## Current
 ### PhD Students
 - Samuel Dauchert
 
