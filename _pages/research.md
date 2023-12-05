@@ -26,4 +26,8 @@ UAM stands at the forefront of technological advancements, demanding intricately
 
 ### Morphing Drones
 
+|![Over-the-shoulder view of the Telescoping Extension Arm  (TEA)-equipped quad-rotor](../images/MorphingDrone.png)|
+|:--:| 
+| *Over-the-shoulder view of the Telescoping Extension Arm  (TEA)-equipped quad-rotor* |
+
 Morphing drones represent a transformative leap in unmanned aerial vehicles (UAVs), offering unparalleled adaptability and versatility, and their significance from a control perspective is profound. The importance lies in their ability to dynamically alter their shape, configuration, or flight characteristics, enabling them to adapt to varying environmental conditions and mission requirements. Control systems in morphing drones are crucial as they must efficiently manage and coordinate the complex changes in the drone's morphology while ensuring stable flight and optimal performance. Research in this area focuses on designing, modeling, and control of morphing drones to enable enhanced agility, aerodynamic efficiency, and mission-specific functionalities, underscoring the critical role of control perspectives in harnessing the full potential of morphing drones across diverse applications, from search and rescue missions to environmental monitoring and beyond.
