@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xiaofeng Wang"
   avatar           : "profile.png"
-  bio              : "Associate Professor <br> Department of Electrical Engineering"
-  employer         : "University of South Carolina"
+  bio              : "Associate Professor <br> Department of Electrical Engineering <br> University of South Carolina"
+  employer         :
   location         : "301 Main Street, Columbia, SC"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZN73_1AAAAAJ&hl=en"
