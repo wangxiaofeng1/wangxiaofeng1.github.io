@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-(A complete list of my publications can be found in [Google Scholar Profile](https://scholar.google.com/citations?user=ZN73_1AAAAAJ&hl=en&oi=ao)
+(A complete list of my publications can be found in my [Google Scholar Profile](https://scholar.google.com/citations?user=ZN73_1AAAAAJ&hl=en&oi=ao)
 
 ## Image Processing
 
