@@ -26,7 +26,7 @@ UAM stands at the forefront of technological advancements, demanding intricately
 
 ### Morphing Drones
 
-|![Over-the-shoulder view of the Telescoping Extension Arm  (TEA)-equipped quad-rotor](../images/MorphingDrone.png)|
+|![Over-the-shoulder view of the Telescoping Extension Arm  (TEA)-equipped quad-rotor](../images/MorphingDrone.png | width=200)|
 |:--:| 
 | *Over-the-shoulder view of the Telescoping Extension Arm  (TEA)-equipped quad-rotor* |
 
