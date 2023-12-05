@@ -20,4 +20,4 @@ News
 
 Positions for PhD Students
 ======
-Positions for PhD students are available in my group in the Department of Electrical Engineering at the University of South Carolina, Columbia. Students with solid background in control theory, robotics, machine learning, or applied mathematics are encouraged to apply. For more information, please contact me by email.
+Positions for PhD students are available in my group. Students with solid background in control theory, robotics, machine learning, or applied mathematics are encouraged to apply. For more information, please contact me by email.
