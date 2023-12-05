@@ -20,6 +20,7 @@ Zheqing Zhou (Now founder of a startup company)
 
 ### MS Students
 Courage Agho (Now Sr. Engineer at Tesla)
+
 Hang Xu (Co-advised with Prof. Roger Dougal)
 
 ### Visiting Scholars
