@@ -12,7 +12,6 @@ My research focuses on robotics and control, cyber-physical systems, and autonom
 A focal point of my upcoming research involves the integration of learning methodologies into control systems while ensuring robustness and safety. While machine learning (ML) heralds unprecedented levels of automation and autonomy, integrating it into safety-critical systems poses significant challenges. The opacity inherent in ML -- the difficulty in analyzing its decision-making processes -- presents hurdles in quantifying and mitigating uncertainties, especially when coupled with physical uncertainties. We addresses this challenge by proposing the Data-enabled Simplex (DeSimplex) solution, which facilitates a seamless transition of control authority from learning-based components to high-assurance solutions, maintaining safety thresholds and enabling continuous learning from operational environments to optimize performance and safety simultaneously. DeSimplex presents a pioneering approach that aims to harmonize learning mechanisms with safety assurances, promising advancements in autonomous system control. Its success hinges upon the seamless amalgamation of reliable perception, robust planning, (distributional) robust adaptive control, and intricate optimization techniques, coupled with comprehensive reachability analysis. 
 
 |![The DeSimplex architecture for autonomy pipeline](../images/framework.png)|
-||
 |:--:| 
 | *The DeSimplex architecture for autonomy pipeline* |
 
@@ -27,7 +26,7 @@ UAM stands at the forefront of technological advancements, demanding intricately
 
 ### Morphing Drones
 
-|<img src="../images/MorphingDrone.png" width="150">|
+|<img src="../images/MorphingDrone.png" width="500">|
 |:--:| 
 | *Over-the-shoulder view of the Telescoping Extension Arm  (TEA)-equipped quad-rotor* |
 
