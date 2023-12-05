@@ -14,7 +14,6 @@ Connor Chonko
 
 ## Alumni
 ### PhD Students
-
 Xin Zhang (now assistant professor in the University of Southern Maine)
 
 Rabab Abdelfattah (now assistant professor at the University of Southern Mississippi)
