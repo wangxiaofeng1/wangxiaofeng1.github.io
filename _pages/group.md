@@ -16,8 +16,7 @@ Connor Chonko
 ### PhD Students
 - Xin Zhang (now assistant professor in the University of Southern Maine)
 - Rabab Abdelfattah (now assistant professor at the University of Southern Mississippi)
-
-Lixing Yang (now researcher at Huzhou Institution of Zhejiang University)
+- Lixing Yang (now researcher at Huzhou Institution of Zhejiang University)
 
 Zheqing Zhou (now running a startup company)
 
