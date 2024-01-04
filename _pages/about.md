@@ -10,7 +10,7 @@ Welcome to my website!
 
 News
 ======
-- January 2024: Welcome Connor Chonko and Davis Mo to join the group!
+- January 2024: Connor Chonko and Davis Mo join the group!
 - November 2023: Xin Zhang successfully defends his Ph.D. dissertation "Robustness of Convolutional Neural Networks: Analysis and Applications".  He will become an assistant professor at the University of Southern Maine.
 - Sebtember 2023: Our project "Collaborative Research: SLES: Guaranteed Tubes for Safe Learning across Autonomy Architectures", collaborated with the UIUC team, is funded by the National Science Foundation (NSF).
 - Sebtember 2023: Our paper "PLGAN: Generative Adversarial Networks for Power-Line Segmentation in Aerial Images" has been accepted as a REGULAR paper in IEEE Transactions on Image Processing (TIP).
