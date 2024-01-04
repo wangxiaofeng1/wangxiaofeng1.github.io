@@ -8,8 +8,12 @@ author_profile: true
 ### PhD Students
 - Samuel Dauchert
 
-### Undergraduate Students
+### Master Students
 - Connor Chonko
+- Davis Mo
+
+### Undergraduate Students
+
 
 ## Alumni
 ### PhD Students
