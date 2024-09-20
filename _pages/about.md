@@ -10,6 +10,9 @@ Welcome to my website!
 
 News
 ======
+- August 2024: Xinyu Wang and Yingcong Zhang join the group!
+- July 2024: Our paper "DiffTune-MPC: Closed-Loop Learning for Model Predictive Control" has been published in IEEE Robotics and Automation Letters.
+- May 2024: Our paper "Reliable Majority Vote Computation with Complementary Sequences for UAV Waypoint Flight Control" has been published in IEEE Transactions on Wireless Communications.
 - January 2024: Connor Chonko and Davis Mo join the group!
 - November 2023: Xin Zhang successfully defends his Ph.D. dissertation "Robustness of Convolutional Neural Networks: Analysis and Applications".  He will become an assistant professor at the University of Southern Maine.
 - Sebtember 2023: Our project "Collaborative Research: SLES: Guaranteed Tubes for Safe Learning across Autonomy Architectures", collaborated with the UIUC team, is funded by the National Science Foundation (NSF).
