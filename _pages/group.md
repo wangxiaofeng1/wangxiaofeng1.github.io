@@ -7,9 +7,11 @@ author_profile: true
 ## Current Members
 ### PhD Students
 - Samuel Dauchert
+- Connor Chonko
+- Xinyu Wang
+- Yingcong Zhang (co-advised with Prof. Guoan Wang)
 
 ### Master Students
-- Connor Chonko
 - Davis Mo
 
 ### Undergraduate Students
