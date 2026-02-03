@@ -27,7 +27,7 @@ UAM stands at the forefront of technological advancements, demanding intricately
 ### Morphing Drones
 Morphing drones represent a transformative leap in unmanned aerial vehicles (UAVs), offering unparalleled adaptability and versatility, and their significance from a control perspective is profound. The importance lies in their ability to dynamically alter their shape, configuration, or flight characteristics, enabling them to adapt to varying environmental conditions and mission requirements. 
 
-|![Over-the-shoulder view of the telescoping extension arm  (TEA)-equipped quadrotor](../images/MorphingDrone.png){:height="36px" width="36px"}|
+|![Over-the-shoulder view of the telescoping extension arm  (TEA)-equipped quadrotor](../images/MorphingDrone.png)|
 |:--:| 
 | *Over-the-shoulder view of the telescoping extension arm  (TEA)-equipped quadrotor* |
 
