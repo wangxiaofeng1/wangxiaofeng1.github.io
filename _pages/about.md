@@ -13,7 +13,8 @@ News
 - January 2026: Our paper "MUSE: Multimodal Uncertainty Quantification of State Estimation" has been accepted by IEEE International Conference on Robotics and Automation (ICRA), 2026.
 - January 2026: Our paper "Modeling and Control of Multirotor Aerial Vehicles with Telescoping Extension Arm Morphology" has been accepted by American Control Conference (ACC), 2026.
 - January 2026: Yingcong Zhang successfully defends her Ph.D. dissertation "Advanced Modeling Techniques and Crosstalk Mitigation Methodology for High-Speed Interconnects in Modern Communication Systems".  She will be a Senior Signal Integrity Engineer at Astera Labs in San Jose, CA.
-- January 2026: Xiaofeng Wang is appointed as an associate editor of IEEE Transactions on Control of Network Systems (TCNS).  
+- January 2026: Michael Gunarso joins the group to pursue his PhD study!
+- January 2026: Xiaofeng Wang is appointed as an associate editor of IEEE Transactions on Control of Network Systems (TCNS). 
 - July 2024: Our paper "DiffTune-MPC: Closed-Loop Learning for Model Predictive Control" has been published in IEEE Robotics and Automation Letters.
 - May 2024: Our paper "Reliable Majority Vote Computation with Complementary Sequences for UAV Waypoint Flight Control" has been published in IEEE Transactions on Wireless Communications.
 - January 2024: Connor Chonko and Davis Mo join the group!
