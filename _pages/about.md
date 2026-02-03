@@ -10,6 +10,8 @@ Welcome to my website!
 
 News
 ======
+- January 2026: Our paper "MUSE: Multimodal Uncertainty Quantification of State Estimation" has been accepted by IEEE International Conference on Robotics and Automation (ICRA), 2026.
+- January 2026: Our paper "Modeling and Control of Multirotor Aerial Vehicles with Telescoping Extension Arm Morphology" has been accepted by American Control Conference (ACC), 2026.
 - July 2024: Our paper "DiffTune-MPC: Closed-Loop Learning for Model Predictive Control" has been published in IEEE Robotics and Automation Letters.
 - May 2024: Our paper "Reliable Majority Vote Computation with Complementary Sequences for UAV Waypoint Flight Control" has been published in IEEE Transactions on Wireless Communications.
 - January 2024: Connor Chonko and Davis Mo join the group!
