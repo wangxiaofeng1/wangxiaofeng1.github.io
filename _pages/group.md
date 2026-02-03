@@ -8,16 +8,20 @@ author_profile: true
 ### PhD Students
 - Samuel Dauchert
 - Connor Chonko
-- Yingcong Zhang (co-advised with Prof. Guoan Wang)
+- Michael Gunarso
 
 ### Master Students
 - Davis Mo
 
 ### Undergraduate Students
-
+- Jonathan Rivera
+- Colton Pitcher
+- Toby Williams
+- Peter McLoughlin
 
 ## Alumni
 ### PhD Students
+- Yingcong Zhang (now senior signal integrity engineer at Astera Labs in San Jose, CA. Co-advised with Prof. Guoan Wang)
 - Xin Zhang (now assistant professor in the University of Southern Maine)
 - Rabab Abdelfattah (now assistant professor at the University of Southern Mississippi)
 - Lixing Yang (now researcher at Huzhou Institution of Zhejiang University)
