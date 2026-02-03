@@ -31,8 +31,4 @@ Morphing drones represent a transformative leap in unmanned aerial vehicles (UAV
 |:--:| 
 | *Over-the-shoulder view of the telescoping extension arm  (TEA)-equipped quadrotor* |
 
-<p align="center">
-    <img src="../images/MorphingDrone.png" alt="Description" width="300">
-</p>
-
 Control systems in morphing drones are crucial as they must efficiently manage and coordinate the complex changes in the drone's morphology while ensuring stable flight and optimal performance. Research in this area focuses on designing, modeling, and control of morphing drones to enable enhanced agility, aerodynamic efficiency, and mission-specific functionalities, underscoring the critical role of control perspectives in harnessing the full potential of morphing drones across diverse applications, from search and rescue missions to environmental monitoring and beyond.
