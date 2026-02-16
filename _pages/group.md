@@ -17,7 +17,6 @@ author_profile: true
 - Jonathan Rivera
 - Colton Pitcher
 - Toby Williams
-- Peter McLoughlin
 
 ## Alumni
 ### PhD Students
