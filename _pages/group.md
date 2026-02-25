@@ -17,6 +17,7 @@ author_profile: true
 - Jonathan Rivera
 - Colton Pitcher
 - Toby Williams
+- Matthew O'Steen
 
 ## Alumni
 ### PhD Students
