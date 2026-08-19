@@ -13,10 +13,7 @@ author_profile: true
 - Matthew O'Steen
 
 ### Undergraduate Students
-- Jonathan Rivera
-- Colton Pitcher
 - Toby Williams
-- 
 
 ## Alumni
 ### PhD Students
