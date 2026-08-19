@@ -10,6 +10,7 @@ Welcome to my website!
 
 News
 ======
+- February 2026: Samuel Dauchert successfully defends his Ph.D. dissertation "Multirotor Aerial Vehicle Morphology Design, Modeling, and Control".
 - January 2026: Our paper "MUSE: Multimodal Uncertainty Quantification of State Estimation" has been accepted by IEEE International Conference on Robotics and Automation (ICRA), 2026.
 - January 2026: Our paper "Modeling and Control of Multirotor Aerial Vehicles with Telescoping Extension Arm Morphology" has been accepted by American Control Conference (ACC), 2026.
 - January 2026: Yingcong Zhang successfully defends her Ph.D. dissertation "Advanced Modeling Techniques and Crosstalk Mitigation Methodology for High-Speed Interconnects in Modern Communication Systems".  She will be a Senior Signal Integrity Engineer at Astera Labs in San Jose, CA.
