@@ -25,8 +25,8 @@ author_profile: true
 - Zheqing Zhou (now running a startup company)
 
 ### MS Students
-- Davis Mo (now Engineer at Savannah River National Lab)
-- Courage Agho (now Sr. Engineer at Zekelman)
+- Davis Mo (now engineer at Savannah River National Lab)
+- Courage Agho (now engineer at Zekelman)
 - Hang Xu (co-advised with Prof. Roger Dougal)
 
 ### Visiting Scholars
