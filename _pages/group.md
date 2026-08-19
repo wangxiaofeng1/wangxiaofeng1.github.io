@@ -26,7 +26,7 @@ author_profile: true
 
 ### MS Students
 - Davis Mo (now Engineer at Savannah River National Lab)
-- Courage Agho (now Sr. Engineer at Tesla)
+- Courage Agho (now Sr. Engineer at Zekelman)
 - Hang Xu (co-advised with Prof. Roger Dougal)
 
 ### Visiting Scholars
