@@ -6,21 +6,21 @@ author_profile: true
 
 ## Current Members
 ### PhD Students
-- Samuel Dauchert
 - Connor Chonko
 - Michael Gunarso
 
 ### Master Students
-- Davis Mo
+- Matthew O'Steen
 
 ### Undergraduate Students
 - Jonathan Rivera
 - Colton Pitcher
 - Toby Williams
-- Matthew O'Steen
+- 
 
 ## Alumni
 ### PhD Students
+- Samuel Dauchert
 - Yingcong Zhang (now senior signal integrity engineer at Astera Labs; co-advised with Prof. Guoan Wang)
 - Xin Zhang (now assistant professor in the University of Southern Maine)
 - Rabab Abdelfattah (now assistant professor at the University of Southern Mississippi)
@@ -28,6 +28,7 @@ author_profile: true
 - Zheqing Zhou (now running a startup company)
 
 ### MS Students
+- Davis Mo (now Engineer at Savannah River National Lab)
 - Courage Agho (now Sr. Engineer at Tesla)
 - Hang Xu (co-advised with Prof. Roger Dougal)
 
