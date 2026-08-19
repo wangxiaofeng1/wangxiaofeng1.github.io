@@ -10,6 +10,7 @@ Welcome to my website!
 
 News
 ======
+- August 2026: Our project "Collaborative Research: CPS-FR: PIAS: Performativity-aware Intelligent Autonomous Systems", collaborated with the UIUC team and the UNR team, is funded by the National Science Foundation (NSF).
 - February 2026: Samuel Dauchert successfully defends his Ph.D. dissertation "Multirotor Aerial Vehicle Morphology Design, Modeling, and Control".
 - January 2026: Our paper "MUSE: Multimodal Uncertainty Quantification of State Estimation" has been accepted by IEEE International Conference on Robotics and Automation (ICRA), 2026.
 - January 2026: Our paper "Modeling and Control of Multirotor Aerial Vehicles with Telescoping Extension Arm Morphology" has been accepted by American Control Conference (ACC), 2026.
